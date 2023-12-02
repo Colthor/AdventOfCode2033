@@ -1,0 +1,2003 @@
+Hello, world!
+Filename: day1.txt
+gsjgklneight6zqfz
+first: 8, last: 6, number: 86
+7one718onegfqtdbtxfcmd
+first: 7, last: 8, number: 78
+xvtfhkm8c9
+first: 8, last: 9, number: 89
+914two8
+first: 9, last: 8, number: 98
+vxzzvdhfqfsix83c1ttvbbstxgdrkfcnmm3
+first: 6, last: 3, number: 63
+76mkvhmbkpm
+first: 7, last: 6, number: 76
+8sixssmlzlhrnineggmrvg6
+first: 8, last: 6, number: 86
+threeninedtr7219
+first: 3, last: 1, number: 31
+two2geight
+first: 2, last: 8, number: 28
+3nine9fivetwo9twohxhc8
+first: 3, last: 8, number: 38
+llbfmnzzntdcfbslcl3xxvz
+first: 3, last: 3, number: 33
+two3leighttvpkfmjhhonefour
+first: 2, last: 4, number: 24
+1b9four
+first: 1, last: 4, number: 14
+fivefdlqonesj2six
+first: 5, last: 6, number: 56
+hfptgztwosix8
+first: 2, last: 8, number: 28
+fourkcxqfgxbsvjj3472
+first: 4, last: 2, number: 42
+xhzs7rdphtxhtwo
+first: 7, last: 2, number: 72
+eightthree51
+first: 8, last: 1, number: 81
+3nmronemlqzfxgonepkh
+first: 3, last: 1, number: 31
+9vnxqtjjrsg
+first: 9, last: 9, number: 99
+533fivesixrvqfxjrdhl
+first: 5, last: 6, number: 56
+bkrljtkjb42fqnp
+first: 4, last: 2, number: 42
+4mrh734
+first: 4, last: 4, number: 44
+threefourfive83l
+first: 3, last: 8, number: 38
+lcjftnpqfourfivesixtwof3
+first: 4, last: 3, number: 43
+sevennineh7two3
+first: 7, last: 3, number: 73
+onecgrmb74ctxhg
+first: 1, last: 4, number: 14
+kmvtdrxvrfivethree2
+first: 5, last: 2, number: 52
+seven98mflv
+first: 7, last: 8, number: 78
+tmoneightzstdjqjncnkpkknzoneonethreefive7
+first: 1, last: 7, number: 17
+fourzsqjbffmxf6lsqdttjfive1nine
+first: 4, last: 9, number: 49
+ccs3onesgmmrb
+first: 3, last: 1, number: 31
+kflkpscthreehjjgckfrfdhc3krgntwofour
+first: 3, last: 4, number: 34
+7five2134
+first: 7, last: 4, number: 74
+pnfbrjhgprdsvzjrklrclmlgkk69four4
+first: 6, last: 4, number: 64
+cheightwofourxt2
+first: 8, last: 2, number: 82
+1167threetfqstpkc
+first: 1, last: 3, number: 13
+6dsk2bhqmonejggkpvffhgnrbsix
+first: 6, last: 6, number: 66
+five9threefour
+first: 5, last: 4, number: 54
+one3136four
+first: 1, last: 4, number: 14
+vvncdsg6jnxlbsb3
+first: 6, last: 3, number: 63
+fgftp5
+first: 5, last: 5, number: 55
+xxscpztpxteightv4mprlzmdhxtxmpvgfour
+first: 8, last: 4, number: 84
+g4
+first: 4, last: 4, number: 44
+eightmbqbrxjbdx5
+first: 8, last: 5, number: 85
+8nineeighttwo6lcsvmvxdqbgpdbtjnnine
+first: 8, last: 9, number: 89
+jkj86threeskgpnl3four
+first: 8, last: 4, number: 84
+rtmpn5cbtthreefgxnhhvlkxcbtknnine
+first: 5, last: 9, number: 59
+7dpn6cqstqrv7sbgzxhgrqrgn
+first: 7, last: 7, number: 77
+3fivetxgjgndz1
+first: 3, last: 1, number: 31
+tfmkd8three2
+first: 8, last: 2, number: 82
+rcl55cvnfour9twofive
+first: 5, last: 5, number: 55
+dmgdbkfjvsnpctj69four5
+first: 6, last: 5, number: 65
+xjlrvznbgl78eight
+first: 7, last: 8, number: 78
+dmhkvgbc6four6eightwofkk
+first: 6, last: 2, number: 62
+zlhzn898scffour
+first: 8, last: 4, number: 84
+bdeighttxntvnslbf1nine59
+first: 8, last: 5, number: 85
+htjltzmzeight5foureightdvv
+first: 8, last: 4, number: 84
+45fourl2
+first: 4, last: 2, number: 42
+seventhree39fivesixtwokchzgc
+first: 7, last: 2, number: 72
+fxtbgsxch1lmdsldthreefour8rkxjz9
+first: 1, last: 9, number: 19
+five3five8
+first: 5, last: 8, number: 58
+threefvfcxnfgskqjdjknrgkvnkl6
+first: 3, last: 6, number: 36
+8jzdkxm
+first: 8, last: 8, number: 88
+plttwo2fourseven99zthrklvcvp
+first: 2, last: 9, number: 29
+gxjfdnzrcj2847eightnine
+first: 2, last: 9, number: 29
+2onetwoxdc
+first: 2, last: 2, number: 22
+35zlpzpvfn77
+first: 3, last: 7, number: 37
+nxppmskvrd1one89eightfive
+first: 1, last: 5, number: 15
+glhp52f
+first: 5, last: 2, number: 52
+mpptktkhrbbcsdheighteightqkjgckvxs6fourseven
+first: 8, last: 7, number: 87
+1ninelspvpm
+first: 1, last: 9, number: 19
+threefqn551
+first: 3, last: 1, number: 31
+eight95lhxrtwoh2hbnd
+first: 8, last: 2, number: 82
+jlbclhxp72fivektxfxbtwonetxl
+first: 7, last: 1, number: 71
+one7nflzdbdjchbbqqmn
+first: 1, last: 7, number: 17
+fivesbgsrvzrhz2ncbkhsbrgnpbkgcsrln1zksfqkcxpf
+first: 5, last: 1, number: 51
+1ftfour22hvdcqrseven
+first: 1, last: 7, number: 17
+sevenjgrkpbxxnnv1nine6hzkrzzfl
+first: 7, last: 6, number: 76
+fourthreefour98sevenbthreesix
+first: 4, last: 6, number: 46
+sixgrrjkl3gdzz86onejpjlbpnthree
+first: 6, last: 3, number: 63
+vhx3tnzcjvgg
+first: 3, last: 3, number: 33
+six3one4sixeighttwosbkqdjfhfroneights
+first: 6, last: 1, number: 61
+669eighteight32seven
+first: 6, last: 7, number: 67
+jdpzkdnngc6bvqvtxtxfivesixthreedndsqmv
+first: 6, last: 3, number: 63
+9eight6ssxcdt6fivedsnine
+first: 9, last: 9, number: 99
+nine3onetjmdqpktwo
+first: 9, last: 2, number: 92
+ninejjzrklhptsdzbt6tmxnpbrm
+first: 9, last: 6, number: 96
+eightsevensixtxvxlqtdjfivebnvpdhvfsqbbssfkplzmkvvxh7
+first: 8, last: 7, number: 87
+xmeightone5cjgn1nhjsthree5
+first: 8, last: 5, number: 85
+xncbclzqqgskthree14bptlrknkmpntxmnf
+first: 3, last: 4, number: 34
+sevenfour8
+first: 7, last: 8, number: 78
+34
+first: 3, last: 4, number: 34
+5ccslrvbfive
+first: 5, last: 5, number: 55
+sixsixlqf72
+first: 6, last: 2, number: 62
+kknmskkfivezcmjrgfgclgrz1
+first: 5, last: 1, number: 51
+gqxtmrsqxfour12vlonefive
+first: 4, last: 5, number: 45
+four8594kxsc
+first: 4, last: 9, number: 49
+364
+first: 3, last: 4, number: 34
+hrbfxdpfivesevenjcjdm3nine9sixsh
+first: 5, last: 6, number: 56
+mml5five
+first: 5, last: 5, number: 55
+btcqdx7jjsix
+first: 7, last: 6, number: 76
+4558seven4mjzsix
+first: 4, last: 6, number: 46
+1mfckqcfk
+first: 1, last: 1, number: 11
+4pjtbd18ghnnjqmjm6cvcdgjlcrmxpnnts
+first: 4, last: 6, number: 46
+eight6hd
+first: 8, last: 6, number: 86
+cdjdhpjccncpmrfour9qxlqfivenxjfssftnq
+first: 4, last: 5, number: 45
+5bchcbpjxnsbkxgbqgbr
+first: 5, last: 5, number: 55
+sixlhnzzmkbfourhzp58onetwoseven
+first: 6, last: 7, number: 67
+kfgkqfivek3br
+first: 5, last: 3, number: 53
+fnklssmgnine4eight
+first: 9, last: 8, number: 98
+rbbnjvgpkgbs65sevenmeightsevennine
+first: 6, last: 9, number: 69
+8ninenzgpldnfgjjmbqpmqvgqcthree5seven2
+first: 8, last: 2, number: 82
+seven6pdrgrldhtldhmndbjpj
+first: 7, last: 6, number: 76
+5three4zmjpslhh
+first: 5, last: 4, number: 54
+threesixsix45
+first: 3, last: 5, number: 35
+szxnvzrkseven2tctf
+first: 7, last: 2, number: 72
+xqzpninesixseven5dndlqd7
+first: 9, last: 7, number: 97
+three6ghhzcvpkfivervsgplxq
+first: 3, last: 5, number: 35
+eighttwoeightlfntmxptgk2pngplvr39
+first: 8, last: 9, number: 89
+33ninenine4fivejseven6
+first: 3, last: 6, number: 36
+fivehxbmjvxxrzrqr29npqhhlsjr2ttmnl
+first: 5, last: 2, number: 52
+slmltqplzl73dxkxrpgn
+first: 7, last: 3, number: 73
+lxg4371three
+first: 4, last: 3, number: 43
+tjxsmjnthreefive5fivemshrhhj
+first: 3, last: 5, number: 35
+5eighttwo
+first: 5, last: 2, number: 52
+sixbpqtcrjzmveighteightjzgktzss1
+first: 6, last: 1, number: 61
+1qxjz57sixzh
+first: 1, last: 6, number: 16
+4djpqz54122
+first: 4, last: 2, number: 42
+threeclg1ng7kgprvd
+first: 3, last: 7, number: 37
+3143threenine71
+first: 3, last: 1, number: 31
+kcxmcthreesixeight23
+first: 3, last: 2, number: 32
+4zhvn4five
+first: 4, last: 5, number: 45
+lmxfone47fbdsixjgl
+first: 1, last: 6, number: 16
+kzcdzp2
+first: 2, last: 2, number: 22
+27twozjbtr
+first: 2, last: 2, number: 22
+gpvkqdpbpzthreeone5
+first: 3, last: 5, number: 35
+bqvneightseven8qll
+first: 8, last: 8, number: 88
+seven8brjrp272none
+first: 7, last: 1, number: 71
+3kxhglddkjklkl
+first: 3, last: 3, number: 33
+5sevennine52nine
+first: 5, last: 2, number: 52
+3fourgznkfpfsxzsnmoneqsixtsm
+first: 3, last: 6, number: 36
+twothreemkz6ttrtbj8
+first: 2, last: 8, number: 28
+qoneight28fourninempvltzrtzgvfdcdlxv
+first: 1, last: 9, number: 19
+rllmkpvgqnkdgdrseven2five3
+first: 7, last: 3, number: 73
+7eight89fourlkfourfivejkqgffz
+first: 7, last: 5, number: 75
+four6xr
+first: 4, last: 6, number: 46
+6sixfive2hhzdkskxnine3nine
+first: 6, last: 3, number: 63
+two6qmmkhb9eight
+first: 2, last: 8, number: 28
+cqfxnmrlnhcsdqqxkn2nsncgvdxgmnineeight
+first: 2, last: 8, number: 28
+7sixsdsfour4mrxeight
+first: 7, last: 8, number: 78
+44threetcmtzmxzgjonesixnine8seven
+first: 4, last: 7, number: 47
+dlonethreejh6bgxxmlkdseightwokp
+first: 1, last: 2, number: 12
+four3lspkhhtsmone
+first: 4, last: 1, number: 41
+89hjtnrrpvfzjdkzp
+first: 8, last: 9, number: 89
+xc4sixvzpccdblczvleight7
+first: 4, last: 7, number: 47
+2twotwogzqhp9vnbp
+first: 2, last: 9, number: 29
+rxsplmvb1two8pdtnxtbthreefiveeight
+first: 1, last: 8, number: 18
+bsfdmnnj8eight
+first: 8, last: 8, number: 88
+rntszdckhhcmqn21ljzqbhn
+first: 2, last: 1, number: 21
+nineeight8
+first: 9, last: 8, number: 98
+1fhmnzzlfjpdp3ptj8threejqvmstbtp
+first: 1, last: 3, number: 13
+267
+first: 2, last: 7, number: 27
+hkknsfivecrhthvbhhqj1
+first: 5, last: 1, number: 51
+six6xcqpnj9fivezcqbrfour4
+first: 6, last: 4, number: 64
+8one2gfsgg
+first: 8, last: 2, number: 82
+mszrrqmr4nine9
+first: 4, last: 9, number: 49
+5fournine43three
+first: 5, last: 3, number: 53
+5one9hvvrthreethreef3
+first: 5, last: 3, number: 53
+ninetwo6twofivefivennhjqkhzntkqptfxvdj
+first: 9, last: 5, number: 95
+9onetwo5fiveeightnine8
+first: 9, last: 8, number: 98
+nineseventslmmgnsjbdgsb2sixlmvxpdg6
+first: 9, last: 6, number: 96
+8nineonethreehghh
+first: 8, last: 3, number: 83
+jd1kr
+first: 1, last: 1, number: 11
+drrsxljl4
+first: 4, last: 4, number: 44
+fqhfjdxdlsgjgkhcpjkqpgzjgchsixrvzqn7
+first: 6, last: 7, number: 67
+7one2qsnxhfqkseven6
+first: 7, last: 6, number: 76
+1vhljtwo1oneightqm
+first: 1, last: 8, number: 18
+gl3
+first: 3, last: 3, number: 33
+two2eight1threethree
+first: 2, last: 3, number: 23
+64nine
+first: 6, last: 9, number: 69
+qglkhnfffsnine2three566three
+first: 9, last: 6, number: 96
+7sixtwo6trbbklgjteighttwo
+first: 7, last: 2, number: 72
+nkccpeight4sevensevenone
+first: 8, last: 1, number: 81
+eight9ldkvgqhq3
+first: 8, last: 3, number: 83
+ttkqpxpzrxph1zfzhbvbgvn
+first: 1, last: 1, number: 11
+46lqxxgrmvsix
+first: 4, last: 6, number: 46
+twosixcqsmjsthree8pqthmd
+first: 2, last: 8, number: 28
+ninesixdsns66lvnkhrq3
+first: 9, last: 3, number: 93
+seven413crqjpkfqleightlgxgck
+first: 7, last: 8, number: 78
+onesxztkrtxksqklpqcmrlpjlnst6ftwo
+first: 1, last: 2, number: 12
+jzb1oneightqqr
+first: 1, last: 8, number: 18
+ninexrmlglbdlfqm4twolnlq
+first: 9, last: 2, number: 92
+4seven4eightzds
+first: 4, last: 8, number: 48
+fourngdzkklkxtsix8
+first: 4, last: 8, number: 48
+cggtwonebtkxtwothree16seven
+first: 2, last: 7, number: 27
+three59threesix
+first: 3, last: 6, number: 36
+3qfglrfcr4nine
+first: 3, last: 9, number: 39
+9seveneighttwofoureightvvhpgmpnftwo
+first: 9, last: 2, number: 92
+seven2sixvsmxv86
+first: 7, last: 8, number: 78
+mgvqr5two
+first: 5, last: 2, number: 52
+lggjffzt2six7vxflh23
+first: 2, last: 3, number: 23
+hctpninesevenoneonevr3
+first: 9, last: 3, number: 93
+7threeqzgzm532mn5
+first: 7, last: 5, number: 75
+vltdnjhxgl6rjbmcb79s69eight
+first: 6, last: 8, number: 68
+snkbpcgclpbflxbz6nkktqqgplm11bdnvpfour
+first: 6, last: 4, number: 64
+75dllnlkthree93onedflbbmlvmd
+first: 7, last: 1, number: 71
+sixthree94frdpkdccqkxv5
+first: 6, last: 5, number: 65
+hdpsvxl2bszdpgspqgxrzz3
+first: 2, last: 3, number: 23
+hztwonethreeeightzjqk8fivepvgrpsrxxsbfqfv
+first: 2, last: 5, number: 25
+kfmh6sixv74two
+first: 6, last: 2, number: 62
+one9three5
+first: 1, last: 5, number: 15
+lcn2hls3three66gsfmzvlx
+first: 2, last: 6, number: 26
+tmlhhl72nhhkppscc
+first: 7, last: 2, number: 72
+eightsevenprzgonethree7nine1
+first: 8, last: 1, number: 81
+1rngfnx78196sixrjbbkzp
+first: 1, last: 6, number: 16
+6seven2182six
+first: 6, last: 6, number: 66
+fpsl5xbdnjbzonethreezcfqmqonefive
+first: 5, last: 5, number: 55
+5cxhrqzsfz34xdkvtxblkhvstcmjc
+first: 5, last: 4, number: 54
+seven36ccqzfmmlvsevennine
+first: 7, last: 9, number: 79
+5nrvq2nine2
+first: 5, last: 2, number: 52
+fljzxvninetqxjjcrsvp7
+first: 9, last: 7, number: 97
+1ninetwosevenvdtn4qcxnblgx2two
+first: 1, last: 2, number: 12
+dcfxp2onefourfive
+first: 2, last: 5, number: 25
+6czxzpsc
+first: 6, last: 6, number: 66
+threeone1grvz8pvzvzkdzjfsix
+first: 3, last: 6, number: 36
+hmbpnqntczjhdlsjonedr9prxvkt6one9
+first: 1, last: 9, number: 19
+dccns9threeninexgflfjltmvlssrhkbvktcfourg
+first: 9, last: 4, number: 94
+sevenhbflnmglrn4rtseventwo55
+first: 7, last: 5, number: 75
+threehddkrvsp11
+first: 3, last: 1, number: 31
+6threegtk5five
+first: 6, last: 5, number: 65
+29m5
+first: 2, last: 5, number: 25
+nine3threesixsevennineddgchfiveeightwovqq
+first: 9, last: 2, number: 92
+2jtgvrldnbpfncfxtq
+first: 2, last: 2, number: 22
+eighttwo6vtgkvpqzthree
+first: 8, last: 3, number: 83
+5sixseven
+first: 5, last: 7, number: 57
+twohj3seven3fourblqqbphcbfive
+first: 2, last: 5, number: 25
+6one7twovjfqlsdgnrtzlzmjxgfljs
+first: 6, last: 2, number: 62
+1nv
+first: 1, last: 1, number: 11
+22five27two
+first: 2, last: 2, number: 22
+3sevenlgeighteight
+first: 3, last: 8, number: 38
+khpjmtsskfivefivexbjnkdtwogmxcxrqdpl2
+first: 5, last: 2, number: 52
+zmvpjtm6gzgztjrtnmgpsevenfive28vjvhmnr
+first: 6, last: 8, number: 68
+9four71
+first: 9, last: 1, number: 91
+9zghgdjs
+first: 9, last: 9, number: 99
+3oneqcjhsbv9threefive
+first: 3, last: 5, number: 35
+47rsggonennqmbbckcdd31three
+first: 4, last: 3, number: 43
+sevenfivesixone5eight
+first: 7, last: 8, number: 78
+48hcmlcone8x6
+first: 4, last: 6, number: 46
+three9threesixjtxhlm3eightgtrskhqfjtgfjbcfdt
+first: 3, last: 8, number: 38
+5ninefrpqjdhkkcldvhqkljpqpb1
+first: 5, last: 1, number: 51
+969nine
+first: 9, last: 9, number: 99
+ninenine8ctprmxkvnine3xkl
+first: 9, last: 3, number: 93
+seven648lpmxdn92
+first: 7, last: 2, number: 72
+rjhvlnz5two
+first: 5, last: 2, number: 52
+dlvqhfmp587
+first: 5, last: 7, number: 57
+sevensix6
+first: 7, last: 6, number: 76
+eightsix34fourlgxrndbjjx9mztwo
+first: 8, last: 2, number: 82
+czlpflntvpc1qnl2
+first: 1, last: 2, number: 12
+9seven8qsixbjoneeight
+first: 9, last: 8, number: 98
+snnjcseventwo6qst
+first: 7, last: 6, number: 76
+ndxgj756zqgt
+first: 7, last: 6, number: 76
+krczgjpbfp199three4six
+first: 1, last: 6, number: 16
+cjeightwoone8
+first: 8, last: 1, number: 81
+ffmddcrh7rrxhpnlkkdl
+first: 7, last: 7, number: 77
+nine9hhppdvfczxkjninefivecdp
+first: 9, last: 5, number: 95
+8eight19
+first: 8, last: 9, number: 89
+4fiveeightthree2twotwo
+first: 4, last: 2, number: 42
+nine2four4941seven
+first: 9, last: 7, number: 97
+fournine5twodqbkbjjmmqsn
+first: 4, last: 2, number: 42
+nzqgngfxftwo6
+first: 2, last: 6, number: 26
+5bmlfbsql2sevenjrxkkdtwoone
+first: 5, last: 1, number: 51
+jfeightwoppxbpgzdljnmmpvrckv8
+first: 8, last: 8, number: 88
+chj66fouronefourvcdd
+first: 6, last: 1, number: 61
+fourzvgbsgkmgslntrzxtxvjnmhk5v7
+first: 4, last: 7, number: 47
+1fnzftqmtj9gqkblpknq6blmlkxbzhdsdljvqfour
+first: 1, last: 4, number: 14
+116rqpdqq
+first: 1, last: 6, number: 16
+xslxqcmlchmqlzmkxbk79hnlhthreesnnmnht
+first: 7, last: 3, number: 73
+sixfive8kjhrfdxrtfour
+first: 6, last: 4, number: 64
+nlv71clmzbnine6
+first: 7, last: 6, number: 76
+42one8lz
+first: 4, last: 8, number: 48
+qspsdj2gv6vl8six5
+first: 2, last: 5, number: 25
+5gctkjzxlr2twoseventhree
+first: 5, last: 3, number: 53
+rmgmkvqeightpfmrxqmvkg8
+first: 8, last: 8, number: 88
+3sixnjrjbbzl3
+first: 3, last: 3, number: 33
+1nineseven4three7qhdsxvbmlk
+first: 1, last: 7, number: 17
+fourjbznsbgsn2pgxrzlkkjtctm3eight5
+first: 4, last: 5, number: 45
+36fourninecppsqfflbcbljnfgh2
+first: 3, last: 2, number: 32
+eight211ninegnfvhfxqcmpmeight
+first: 8, last: 8, number: 88
+vbsg73
+first: 7, last: 3, number: 73
+3ninetwoonerbzcglkmdg
+first: 3, last: 1, number: 31
+76ngkrtfonecltwovvgvgznzbmxm
+first: 7, last: 2, number: 72
+977eighteightwocp
+first: 9, last: 2, number: 92
+fxskxcdkdeight2225
+first: 8, last: 5, number: 85
+seven98rpzjxscseven3vtbbhqjrjfk
+first: 7, last: 3, number: 73
+sevenseven97jxh
+first: 7, last: 9, number: 79
+sevenfourfivexsspnqjnlxtbrfour24
+first: 7, last: 2, number: 72
+fivefive5two91six
+first: 5, last: 6, number: 56
+gg2ptrsdxtfjtzztthree8
+first: 2, last: 8, number: 28
+eight2ncmps1qsix25
+first: 8, last: 5, number: 85
+eight486zfqfmgchtrrbcrjsevenrcqtxnqnrb
+first: 8, last: 7, number: 87
+7vgn31lvqqvkdqlpddmllbn9
+first: 7, last: 9, number: 79
+1hlgrlmctseveneight9xfsfseven
+first: 1, last: 7, number: 17
+onefourdqzvlh7
+first: 1, last: 7, number: 17
+four543ninethree
+first: 4, last: 3, number: 43
+4seven1one
+first: 4, last: 1, number: 41
+79twogmjcngj7rseven3
+first: 7, last: 3, number: 73
+xxtkcbkgqfldssix4five4nine
+first: 6, last: 9, number: 69
+tqxnnspd7sevenvljzl2scsbkhqdq
+first: 7, last: 2, number: 72
+cbz3rczscjfxtzfivenbjqone
+first: 3, last: 1, number: 31
+threekkcjlmvkfrsgz6r
+first: 3, last: 6, number: 36
+1sixvppcksdvrz7
+first: 1, last: 7, number: 17
+dvngzs74eight9
+first: 7, last: 9, number: 79
+qrncqtqxkfrndcrrpjcglfonesix75seven
+first: 1, last: 7, number: 17
+eight6cksxfdthreefive2eight
+first: 8, last: 2, number: 82
+four51sixfschln6
+first: 4, last: 6, number: 46
+hblmcggzgqsix2two
+first: 6, last: 2, number: 62
+93two985
+first: 9, last: 5, number: 95
+78six6
+first: 7, last: 6, number: 76
+6sxmd289nine152
+first: 6, last: 2, number: 62
+gmpdcdcr4xzmhq3
+first: 4, last: 3, number: 43
+5threehpdmq
+first: 5, last: 3, number: 53
+eight54xcrlsv8three4
+first: 8, last: 4, number: 84
+35twofourfivenine4tjthd
+first: 3, last: 4, number: 34
+6kch9
+first: 6, last: 9, number: 69
+7fjlvptwo2ztrggpmsntwo
+first: 7, last: 2, number: 72
+7twosix6kmdnvspnqgjxcdtgrspjj7
+first: 7, last: 7, number: 77
+tsix8fivethree
+first: 6, last: 3, number: 63
+2pggbgxnft7
+first: 2, last: 7, number: 27
+sixthree69j
+first: 6, last: 9, number: 69
+24l
+first: 2, last: 4, number: 24
+cpzltvslq9nfhcv
+first: 9, last: 9, number: 99
+six46eightsixsixbblvjjkvntmm
+first: 6, last: 6, number: 66
+7five3
+first: 7, last: 3, number: 73
+six2three
+first: 6, last: 3, number: 63
+seven2xxxhhjnl53sixjtgbnvh6
+first: 7, last: 6, number: 76
+fiveeightj1mrfvzfour3p
+first: 5, last: 3, number: 53
+6foureight588zpjdcxlrshtwonine
+first: 6, last: 9, number: 69
+xvtwonesix7prcjfsxjksknxqqsmsix
+first: 2, last: 6, number: 26
+eight3fivexmrs1eightnc
+first: 8, last: 1, number: 81
+vczdhchhsmlx7zdlcgfzrcgkcnqdvdtphxqqjxnsbd
+first: 7, last: 7, number: 77
+six2fxqqdtrkgqpgjrvhxtsbqzz
+first: 6, last: 2, number: 62
+twotwofour4six
+first: 2, last: 6, number: 26
+9nzcvxthree
+first: 9, last: 3, number: 93
+kggfkpvhrronep238nine
+first: 1, last: 9, number: 19
+41seven4sevenfourvrmxkhpcmskbctwo
+first: 4, last: 2, number: 42
+nbttnvh8nlhldjstkvdxxlvqeightoneights
+first: 8, last: 1, number: 81
+tjqdkfourthree466
+first: 4, last: 6, number: 46
+twothbcvstwotwo2xpnqrldsmdtscnrp
+first: 2, last: 2, number: 22
+sevennine3
+first: 7, last: 3, number: 73
+twodhbtlnzrt418dlszqkbc78
+first: 2, last: 8, number: 28
+3four8threeonetwoneh
+first: 3, last: 1, number: 31
+drtcjpmrlnine3vgf8kssrsssgpnseven
+first: 9, last: 7, number: 97
+eight78jqjjkgtbcckdndhdvz57q
+first: 8, last: 7, number: 87
+five59onesixsevenflls
+first: 5, last: 7, number: 57
+63bbznssjjsvt4
+first: 6, last: 4, number: 64
+fqkgmcrxf6gkcninesevennfzhccqtfour9
+first: 6, last: 9, number: 69
+5nine2three
+first: 5, last: 3, number: 53
+gfkhpkfgb9four49rqcjrjkglpzxr
+first: 9, last: 9, number: 99
+ds28eight33xl
+first: 2, last: 3, number: 23
+qdgnn9ninecpcv
+first: 9, last: 9, number: 99
+2sevenrlfkzmktzgsevenzzgxfrmp
+first: 2, last: 7, number: 27
+twovpthxmxqgr94
+first: 2, last: 4, number: 24
+sk3gbmrknrmm
+first: 3, last: 3, number: 33
+7sevenrpxjvzeightsix
+first: 7, last: 6, number: 76
+9zxzqglvxqm6jphmvfsqvjjqsl
+first: 9, last: 6, number: 96
+9kqmnkthcdhtwovbrqzftst3
+first: 9, last: 3, number: 93
+eight669zvrdpv
+first: 8, last: 9, number: 89
+shgjkgthreeznz69pjltseven
+first: 3, last: 7, number: 37
+ninebc5eight
+first: 9, last: 8, number: 98
+5l
+first: 5, last: 5, number: 55
+onesix5five2clxllfour
+first: 1, last: 4, number: 14
+71three2fivecplsnlgsmthree
+first: 7, last: 3, number: 73
+twofourone6fm7four26eightwox
+first: 2, last: 2, number: 22
+7three9ftpvvbzpjzsixssxbqcfsix4
+first: 7, last: 4, number: 74
+92eightlsgrmpqtpptxrdfxthreemvlxfpsevenoneightdd
+first: 9, last: 1, number: 91
+eight7three
+first: 8, last: 3, number: 83
+drxxcghbsevenninenineljtczntp6
+first: 7, last: 6, number: 76
+nine55cpqfkdrthree3
+first: 9, last: 3, number: 93
+7fivefp3eight
+first: 7, last: 8, number: 78
+97nine1ninexprdpvqzps
+first: 9, last: 1, number: 91
+four3eightpgbdhnmqvhjjhg6frqkpqzbtwoner
+first: 4, last: 1, number: 41
+3threefivesevenrvr3sixthree
+first: 3, last: 6, number: 36
+sixs6zl184
+first: 6, last: 4, number: 64
+fourlfkxcvqkllbtz45threefivesix
+first: 4, last: 6, number: 46
+2twodvklqcqdjjdnpx84xgthree4
+first: 2, last: 4, number: 24
+eightfour8dnqmlqmxd9cmt8
+first: 8, last: 8, number: 88
+t4sixkkfhgmn83eight
+first: 4, last: 8, number: 48
+eightoneninehqddxnine75vppqhlcm
+first: 8, last: 5, number: 85
+1threesdvsszeight5dcsgrsv
+first: 1, last: 5, number: 15
+seven776smjhhb
+first: 7, last: 6, number: 76
+onevmr62dqzt7
+first: 1, last: 7, number: 17
+pqxtspl19threesevenkjvxjdhxkseven
+first: 1, last: 7, number: 17
+cgkvmx5lffclxgtsnseven
+first: 5, last: 7, number: 57
+fqjctfrrlmmnpeightone19nineqgsnsqbjk
+first: 8, last: 9, number: 89
+8twoone
+first: 8, last: 1, number: 81
+c6eightonep3gxjnsjtwo3
+first: 6, last: 3, number: 63
+sixthree36sevenseven
+first: 6, last: 7, number: 67
+5vgfsdkzbxmvxncxjpsxffcbnr62kmgmhcmkq
+first: 5, last: 2, number: 52
+nineeightfour9kvdmxg5nnhrf
+first: 9, last: 5, number: 95
+5blqszh97fhgpbdn44
+first: 5, last: 4, number: 54
+nhzbqprgptnineflxgvfkvlp453two
+first: 9, last: 2, number: 92
+kpcqvjcjcj6dfpsljlrxdlzbf8grsnsdmklp
+first: 6, last: 8, number: 68
+1zkjbnln
+first: 1, last: 1, number: 11
+four2xvxrrvs
+first: 4, last: 2, number: 42
+nine5nfmbxnrgfnine8onekqcnine
+first: 9, last: 1, number: 91
+oneonedd8
+first: 1, last: 8, number: 18
+rr44
+first: 4, last: 4, number: 44
+8bckneightnqmkvqhkkmxfour
+first: 8, last: 4, number: 84
+2pznjcxlj4onenine433
+first: 2, last: 3, number: 23
+nhmhkcqbsrrthreeeighttwo3f5
+first: 3, last: 5, number: 35
+eight64sixninefivethreecfbbdk
+first: 8, last: 3, number: 83
+csmoneight1hrsevenfivesevenone756
+first: 1, last: 6, number: 16
+9qdrxl
+first: 9, last: 9, number: 99
+26two3jq
+first: 2, last: 3, number: 23
+pnrskrrvtonesevenrmkcxcm2five8five
+first: 1, last: 8, number: 18
+sfvfr8three69three7fs
+first: 8, last: 7, number: 87
+seven52bkslnnfrbqvmblknq3f4
+first: 7, last: 4, number: 74
+zqmtdtp31threesevennine3
+first: 3, last: 3, number: 33
+9tbvvjstzmdpqnpbmrb32cbdjgtsjndjrps3ckpmspm
+first: 9, last: 3, number: 93
+5four4rvmtkppghb9
+first: 5, last: 9, number: 59
+24ftjxbdq3nine
+first: 2, last: 9, number: 29
+ltj2oneeightonesix
+first: 2, last: 6, number: 26
+76three2sevennine
+first: 7, last: 9, number: 79
+hfnzxcjfxgseven5cpph3
+first: 7, last: 3, number: 73
+2one966dpjlgfqbmceightthreenine
+first: 2, last: 9, number: 29
+5one9smzz76eight
+first: 5, last: 8, number: 58
+348tworhzvqjdmqtwo
+first: 3, last: 2, number: 32
+cjsvvksgzkktwo7hsfkrhkcsbrqcnrz26
+first: 2, last: 6, number: 26
+threethreez8
+first: 3, last: 8, number: 38
+m3335cdgbxqn5twodmcqk
+first: 3, last: 2, number: 32
+27eight4
+first: 2, last: 4, number: 24
+sfmspqbzr9eight
+first: 9, last: 8, number: 98
+rscxzq2fqlhbbhvkdbzqzqhzfourninepclrkkdrtwosix
+first: 2, last: 6, number: 26
+pxbld2twonef
+first: 2, last: 1, number: 21
+plpbbkvxqpvdxqcstp5threevljjqsqxsevenseven
+first: 5, last: 7, number: 57
+2sevensix9
+first: 2, last: 9, number: 29
+5413sxmtrdjtcmdqpbpcprsix
+first: 5, last: 6, number: 56
+tpdqxscxjldqvzncbvrpr9cvkqdffvfh8four
+first: 9, last: 4, number: 94
+six14
+first: 6, last: 4, number: 64
+nsmqttrbhrznvonecmlxtdclnbk3
+first: 1, last: 3, number: 13
+ninecgbqh6twoctsixthreefive
+first: 9, last: 5, number: 95
+hqsgonesix3oneightklm
+first: 1, last: 8, number: 18
+cxxbjptkvkcttddmtwo37one5
+first: 2, last: 5, number: 25
+v13two
+first: 1, last: 2, number: 12
+txxm84kmrpdkxhtbntkhj4four5
+first: 8, last: 5, number: 85
+jsrzgnine8nrmzpgf5sqdz
+first: 9, last: 5, number: 95
+4six9dkxttsthreedgvjkqpk
+first: 4, last: 3, number: 43
+msnrq7
+first: 7, last: 7, number: 77
+t2five4vtwo7sevenrjdrzvb
+first: 2, last: 7, number: 27
+2rxbdzlszjseven7
+first: 2, last: 7, number: 27
+gmmninesix3119ninemdnprsmd
+first: 9, last: 1, number: 91
+ninesevenpbfx6fourfivefdvhrsctztrheight
+first: 9, last: 8, number: 98
+qk3two317hnpkqxbmkb3
+first: 3, last: 3, number: 33
+oneone6sixdzdmfonefiveone
+first: 1, last: 5, number: 15
+427sixfive
+first: 4, last: 5, number: 45
+17njgbgljkpxvhph
+first: 1, last: 7, number: 17
+4hnfvpbvzxl6three
+first: 4, last: 3, number: 43
+5sixnllvrvpjpv
+first: 5, last: 6, number: 56
+3sevenfzjltglsjkdknfnmpsvfive6xdsm2
+first: 3, last: 2, number: 32
+1pxp8onesix
+first: 1, last: 6, number: 16
+xclcfthreeln9ndqhvdxknkjzv4
+first: 3, last: 4, number: 34
+6fourtwo2seven1fcd
+first: 6, last: 1, number: 61
+1eightseven4
+first: 1, last: 4, number: 14
+four21eightlfjzb
+first: 4, last: 8, number: 48
+nine9ninenine81
+first: 9, last: 1, number: 91
+eight8zpfsshlqbdlfourmch5four
+first: 8, last: 5, number: 85
+6sixjdmjjgmsk
+first: 6, last: 6, number: 66
+ninesix8threetwoxtqdsffxlk6
+first: 9, last: 6, number: 96
+dgsddfcnnc3sevenseven532one
+first: 3, last: 1, number: 31
+lsevennineninefive851dtqzv
+first: 7, last: 1, number: 71
+nmrxfsmfcscftvzzbggglsfour6
+first: 4, last: 6, number: 46
+threesmxqlgmpvtwokvrx361eight
+first: 3, last: 8, number: 38
+brbkgqcblcxghjp34bpnrctz
+first: 3, last: 4, number: 34
+sixbzxfbfsjth14pqpvjqfmr
+first: 6, last: 4, number: 64
+oneseven99
+first: 1, last: 9, number: 19
+7four6562zjjxxjlvfdqbssmcx
+first: 7, last: 2, number: 72
+8fjssqgzthree4five3
+first: 8, last: 3, number: 83
+fourckmtsssqgdgcvmqhcqlcqqdhv5eight
+first: 4, last: 8, number: 48
+bphtzndpdrfivefour8nine5
+first: 5, last: 5, number: 55
+ninesix57jvjtwo36vzljdfnndv
+first: 9, last: 3, number: 93
+eightfourfivesixone2vg
+first: 8, last: 2, number: 82
+5sevenkdgcmjthdxpxprcdnzpffsixcjmh2
+first: 5, last: 2, number: 52
+9cvldprttjk1
+first: 9, last: 1, number: 91
+seven6fivesfjjshfqmsjvfpc
+first: 7, last: 5, number: 75
+eightsixstmhlldl21fourvgsmdlcd1
+first: 8, last: 1, number: 81
+5nv1two
+first: 5, last: 2, number: 52
+tsqxlfnd6rtcvcv5
+first: 6, last: 5, number: 65
+eight3zdljlvkbp7hfive5xzgzspsnfour
+first: 8, last: 4, number: 84
+945sevennrtnn57
+first: 9, last: 5, number: 95
+562
+first: 5, last: 2, number: 52
+3vtnlsfoursjbgbqmlx6
+first: 3, last: 6, number: 36
+8lprsrtvrh9two3
+first: 8, last: 3, number: 83
+pssfncbhqpfour1dgcjqpccfzfntphmtjthree1sixfour
+first: 4, last: 4, number: 44
+rchfmfp18998rsbx
+first: 1, last: 8, number: 18
+nineonedmlffz5
+first: 9, last: 5, number: 95
+seven2sevenonetwo
+first: 7, last: 2, number: 72
+nine3gxttrkkzpj933mjzhphl
+first: 9, last: 3, number: 93
+cdpqqhrcrrnspsr378two
+first: 3, last: 2, number: 32
+fourrprdlkvqj8tntfttwofivesevenqmcsgpljvnl
+first: 4, last: 7, number: 47
+978sixskr2gkrcgn
+first: 9, last: 2, number: 92
+jcvldmcdqbjdcxhjcgngsevenfive2cfcmbb4
+first: 7, last: 4, number: 74
+szlsvrzzkseventwoone6ninesevensj
+first: 7, last: 7, number: 77
+gzboneightmsblxgzmsq5seven
+first: 1, last: 7, number: 17
+seven5eight5
+first: 7, last: 5, number: 75
+tsblj5onebkx882
+first: 5, last: 2, number: 52
+7kdgdfvx3sevenczgf
+first: 7, last: 7, number: 77
+94g14onenine
+first: 9, last: 9, number: 99
+7fournrkdxz4threethree
+first: 7, last: 3, number: 73
+8eightqtworlcxtv4
+first: 8, last: 4, number: 84
+rbkbdsqbfour39eighteightwoxn
+first: 4, last: 2, number: 42
+cxgmxtoneninennqtmzml6dq
+first: 1, last: 6, number: 16
+8fivefour9
+first: 8, last: 9, number: 89
+8bhspzfsjr9
+first: 8, last: 9, number: 89
+fivekzgvvfour8sevensix4vlphpblsp
+first: 5, last: 4, number: 54
+six63kbbxrfivefive5
+first: 6, last: 5, number: 65
+eight5gmkrhrkjjxhb
+first: 8, last: 5, number: 85
+xtcfivepntwoeight9seven
+first: 5, last: 7, number: 57
+6nine8fivenine2mf
+first: 6, last: 2, number: 62
+5fourbthreenineslxfgtqrxcv5four
+first: 5, last: 5, number: 55
+4vhkxmlsvfg
+first: 4, last: 4, number: 44
+scphnsbz9h6qnlhcqmgl
+first: 9, last: 6, number: 96
+tbbcqfxrllszbseventwofivethreeninef1
+first: 7, last: 1, number: 71
+zkvtlscldhngtk59
+first: 5, last: 9, number: 59
+one6fourrmftxfsvmtwo874
+first: 1, last: 7, number: 17
+37threeonefive4
+first: 3, last: 4, number: 34
+lrnnspbrgd6jzxtbninesevenngnpsljcr
+first: 6, last: 7, number: 67
+xhldmfc4five76five
+first: 4, last: 6, number: 46
+qrzfivexklqcjdnine46
+first: 5, last: 6, number: 56
+jkgb6ninesix41threeseven
+first: 6, last: 7, number: 67
+134628twozlm
+first: 1, last: 2, number: 12
+8ffrzgtbbfgfive2ninethreem
+first: 8, last: 3, number: 83
+2132
+first: 2, last: 2, number: 22
+7xf
+first: 7, last: 7, number: 77
+mfhmshvfivenfzjhslq7nfcfgvjhs8
+first: 5, last: 8, number: 58
+seven3248
+first: 7, last: 8, number: 78
+pvpdpxpg135seven9vpcpgrzlpjblmd
+first: 1, last: 9, number: 19
+shnslhthreefourtwodnpfr7seven
+first: 3, last: 7, number: 37
+6hxhhmfivesixseven
+first: 6, last: 7, number: 67
+vppgmfivethreefivesevensix2two
+first: 5, last: 2, number: 52
+hp98
+first: 9, last: 8, number: 98
+phlskgmgrjsbtq2gkjvrgsd
+first: 2, last: 2, number: 22
+kkfourthree9fhnpdqcqhtwo
+first: 4, last: 2, number: 42
+ftnvkprhvllkh9n
+first: 9, last: 9, number: 99
+71one7twofourfourqtfmc6
+first: 7, last: 6, number: 76
+eightfivehssmqsptconefive4
+first: 8, last: 4, number: 84
+ninejcfqknhcfpcbcsmnpvn4six5j
+first: 9, last: 5, number: 95
+one7jvmtxkjzfive
+first: 1, last: 5, number: 15
+twof9pqcgdfqsq4d7
+first: 2, last: 7, number: 27
+krczdrpxbhsngqdvsqb1four7mb7lldv
+first: 1, last: 7, number: 17
+seven9634tgcsplgmfivetwo
+first: 7, last: 2, number: 72
+vjvpstpbgtsevennvpsvch97rslh4onefour
+first: 7, last: 4, number: 74
+zbtgjgq23seven7lbnzdpnkzf
+first: 2, last: 7, number: 27
+zndbhclr714
+first: 7, last: 4, number: 74
+twofive3
+first: 2, last: 3, number: 23
+9eight2twojxzdkptwo
+first: 9, last: 2, number: 92
+gzqfcqpxnfhtb28dvfeight38
+first: 2, last: 3, number: 23
+rsqvgsqv9tdlvssj
+first: 9, last: 9, number: 99
+f78hjftphgcv8bqgrckgldone
+first: 7, last: 1, number: 71
+fivethreetjg2
+first: 5, last: 2, number: 52
+6vtqgdkxsmj
+first: 6, last: 6, number: 66
+xgjdndnpsevenzfl6tfgxltvcthree
+first: 7, last: 3, number: 73
+threenine82gqnffkvm
+first: 3, last: 2, number: 32
+zmlblc4fiveseven3two
+first: 4, last: 2, number: 42
+msmlvbnqbt9
+first: 9, last: 9, number: 99
+144bfcbsjztmdldveight
+first: 1, last: 8, number: 18
+chceightwofivemcfrxv266
+first: 8, last: 6, number: 86
+two9f7gzhhsf6
+first: 2, last: 6, number: 26
+ninetwoffour8sevenjngv
+first: 9, last: 7, number: 97
+foureight22g7twoonemlvq
+first: 4, last: 1, number: 41
+one78ptfgbbvx
+first: 1, last: 8, number: 18
+fx5
+first: 5, last: 5, number: 55
+5rvz2two
+first: 5, last: 2, number: 52
+913
+first: 9, last: 3, number: 93
+9eightnkvhcksoneqsqgntfthdtjm
+first: 9, last: 1, number: 91
+one1sixcsccdvbxzx
+first: 1, last: 6, number: 16
+sevenoneninethree4one7seven2
+first: 7, last: 2, number: 72
+jqseightwockmxjd3gfmlhbn6seven7sevenkhcr
+first: 8, last: 7, number: 87
+sevenqqhs4onemcn
+first: 7, last: 1, number: 71
+fourseven3nine7pcn
+first: 4, last: 7, number: 47
+sjjpsthkdfeightcsvlcvhltv6
+first: 8, last: 6, number: 86
+qpc16five
+first: 1, last: 5, number: 15
+3jplhrj2threetwofpvrthree
+first: 3, last: 3, number: 33
+4sixsix9two
+first: 4, last: 2, number: 42
+one1eighteight
+first: 1, last: 8, number: 18
+5tg
+first: 5, last: 5, number: 55
+256five9
+first: 2, last: 9, number: 29
+seven9crnff9eighteight
+first: 7, last: 8, number: 78
+16five1one4kqllsltrtn
+first: 1, last: 4, number: 14
+eight3three
+first: 8, last: 3, number: 83
+seventwoqtlxj8
+first: 7, last: 8, number: 78
+74seven5
+first: 7, last: 5, number: 75
+2five7mmgsbfc
+first: 2, last: 7, number: 27
+five7four
+first: 5, last: 4, number: 54
+bmtkcxvcj997eight
+first: 9, last: 8, number: 98
+cpgrpgxtgkqr9
+first: 9, last: 9, number: 99
+sevenmdqtqhfvnknine929xm
+first: 7, last: 2, number: 72
+nsix27vzglsevenseven63
+first: 6, last: 3, number: 63
+six1nqpsgtrllsnhmbnqxrdvrcx8s
+first: 6, last: 8, number: 68
+eighttwoflrvzfq262
+first: 8, last: 6, number: 86
+twosxtf866hfhxn4fourone
+first: 2, last: 1, number: 21
+3fourzbrtmd47three
+first: 3, last: 3, number: 33
+four99eightbcldqfvrm
+first: 4, last: 8, number: 48
+871
+first: 8, last: 1, number: 81
+2twobdtnzzqgvfggjntvgpnqslbdctppnfzpfpcbvzqccq
+first: 2, last: 2, number: 22
+sdmkzhb8lnpjntj7
+first: 8, last: 7, number: 87
+threembr1
+first: 3, last: 1, number: 31
+5fd1sevenpsdpdlnb16
+first: 5, last: 6, number: 56
+7mnkkvpzrrnslfksrninexmpnfpbzhkx
+first: 7, last: 9, number: 79
+nfrnvtt8
+first: 8, last: 8, number: 88
+24dsffiveqzmjrjznfksrknrfn
+first: 2, last: 5, number: 25
+5foureight3pn3
+first: 5, last: 3, number: 53
+nine9three
+first: 9, last: 3, number: 93
+nine74cmxrdvcxf3pdhbfour
+first: 9, last: 4, number: 94
+frjnzrsixone53eight
+first: 6, last: 8, number: 68
+four41fourhfjnjhpkzp
+first: 4, last: 1, number: 41
+939rdjhlfpjsix
+first: 9, last: 6, number: 96
+4kdkcq9two
+first: 4, last: 2, number: 42
+329fivefive98
+first: 3, last: 8, number: 38
+65485
+first: 6, last: 5, number: 65
+dfsevensixmdbfour7jhxsfourfour
+first: 7, last: 4, number: 74
+rqtwonerdkf3eight6fourfour
+first: 2, last: 4, number: 24
+twoqnfthree5fx
+first: 2, last: 5, number: 25
+rtwone1two89ntwo9
+first: 2, last: 9, number: 29
+sixskqssbccfour7fivevcmsevendqbfcvks
+first: 6, last: 7, number: 67
+sgtwovmzmzm9
+first: 2, last: 9, number: 29
+vk9
+first: 9, last: 9, number: 99
+seventhree4
+first: 7, last: 4, number: 74
+48mv3eightnine
+first: 4, last: 9, number: 49
+six7gxnj4six3
+first: 6, last: 3, number: 63
+twotwosixlm55dmzdrntzthreeseven
+first: 2, last: 7, number: 27
+fivemhcdlm8fivemkffllv9
+first: 5, last: 9, number: 59
+fkxzdh69twoonesbrfhntk
+first: 6, last: 1, number: 61
+zfourthreeseven1kllk
+first: 4, last: 1, number: 41
+6ninethreefiveqdct
+first: 6, last: 5, number: 65
+nineeight136three5nxvj
+first: 9, last: 5, number: 95
+fivecpbkhqxpmf46twotxtfrhmvboneone
+first: 5, last: 1, number: 51
+brrfqninetwohgqnkfctkseven1
+first: 9, last: 1, number: 91
+npblhpcpfivehdsnine34
+first: 5, last: 4, number: 54
+vksix4fourvrbfmjcrhb78
+first: 6, last: 8, number: 68
+72xfmds46threefive
+first: 7, last: 5, number: 75
+five1kq8eight56three
+first: 5, last: 3, number: 53
+3sevenfvcsglnjtbhdkqf
+first: 3, last: 7, number: 37
+6tr6qxqrmstqg
+first: 6, last: 6, number: 66
+15five5
+first: 1, last: 5, number: 15
+fthfvffour85
+first: 4, last: 5, number: 45
+seven81fouronefive
+first: 7, last: 5, number: 75
+dhkknlbfjrnsfcvvkk9seveneightwos
+first: 9, last: 2, number: 92
+2lngrlvrk4shgktcbpfonefivenine2
+first: 2, last: 2, number: 22
+sevenhhlrfqmzn2
+first: 7, last: 2, number: 72
+6seven927gdczblhjlmrxnjqfktwoneq
+first: 6, last: 1, number: 61
+7phbj9fourvbx31seven6
+first: 7, last: 6, number: 76
+146
+first: 1, last: 6, number: 16
+jnqxslzpsxdftrqczq764
+first: 7, last: 4, number: 74
+tmbjdldtwogfvxhnvsfp8tzzp
+first: 2, last: 8, number: 28
+fourgv68bblxfktsfdg98
+first: 4, last: 8, number: 48
+36tnrmd2jrllk2npbrctjcjthm
+first: 3, last: 2, number: 32
+mx3nine3hkslkb5
+first: 3, last: 5, number: 35
+xvmgtlzmrfjcmqgtworc3
+first: 2, last: 3, number: 23
+vxscrns1lclnxtwo
+first: 1, last: 2, number: 12
+foursevenone534
+first: 4, last: 3, number: 43
+jdmrj1sixkzdxn
+first: 1, last: 6, number: 16
+two9threenine
+first: 2, last: 9, number: 29
+2sevendsmlzh13jlslmvtnine
+first: 2, last: 9, number: 29
+nine8nine
+first: 9, last: 8, number: 98
+gthbsq953kxckzppcxqzl3
+first: 9, last: 3, number: 93
+xnrgzjzrbp5rptrpbsdgsqfeight5
+first: 5, last: 5, number: 55
+1sevendnmxkpdsrmrfkpmxcq22sixmdmvqlgpnbcxf
+first: 1, last: 6, number: 16
+eight658x14fq
+first: 8, last: 4, number: 84
+rzvgmdltnz9nvthrjvpzqf
+first: 9, last: 9, number: 99
+9oneightgl
+first: 9, last: 8, number: 98
+dsbtb88
+first: 8, last: 8, number: 88
+three4fourninelzvqhvjpk6
+first: 3, last: 6, number: 36
+seven59fourthreed
+first: 7, last: 3, number: 73
+3671
+first: 3, last: 1, number: 31
+66nineeight8two
+first: 6, last: 2, number: 62
+eightlszxlsxlcq3sixskqhj4gkblpj
+first: 8, last: 4, number: 84
+three2eighttwothree
+first: 3, last: 2, number: 32
+nine853qttjrjptxttwortkhmjss
+first: 9, last: 2, number: 92
+twosix35
+first: 2, last: 5, number: 25
+5948lspjxzpbmthfive
+first: 5, last: 5, number: 55
+fourthree8
+first: 4, last: 8, number: 48
+fourfivevbbqpppqrkkzjqqbnine3
+first: 4, last: 3, number: 43
+8nine4xszllqzzonesix2nine
+first: 8, last: 2, number: 82
+crgnbqrfourrzjbpnnsqthreethreefbnine85
+first: 4, last: 5, number: 45
+dx79xjkcpxsndsrbnjlbnine2
+first: 7, last: 2, number: 72
+9nine89
+first: 9, last: 8, number: 98
+one7qmv1
+first: 1, last: 1, number: 11
+dlpbzxfm536392fp
+first: 5, last: 2, number: 52
+3seventhree8eighttwoeightfive
+first: 3, last: 5, number: 35
+twongjrfkcb66
+first: 2, last: 6, number: 26
+2eightseven8
+first: 2, last: 8, number: 28
+zffrln57eighttbqsgzbzhrzxt5kxxlcxb
+first: 5, last: 5, number: 55
+one5three621ninetwonnprsbmm
+first: 1, last: 2, number: 12
+3vmslzzp8xcpcgvf
+first: 3, last: 8, number: 38
+threesix93
+first: 3, last: 9, number: 39
+seven3sixfnbbbeighttwo1fivezglzb
+first: 7, last: 5, number: 75
+kgk7
+first: 7, last: 7, number: 77
+48seven2ccztcfnv5tzkrxffour
+first: 4, last: 4, number: 44
+xczvzdjthreeeight6hnffivexxtmqs79
+first: 3, last: 9, number: 39
+three4nine36threehjp
+first: 3, last: 6, number: 36
+nineqtdtmmpjpkzpxmmfive83sevenseventhree
+first: 9, last: 3, number: 93
+22jfdpndrcvxbgz
+first: 2, last: 2, number: 22
+7bljfctkbpc
+first: 7, last: 7, number: 77
+4bfblqrphseven
+first: 4, last: 7, number: 47
+fklxmcqxthmnvrlc9
+first: 9, last: 9, number: 99
+4seven9zspgftgvd53dsdkhgbns46
+first: 4, last: 6, number: 46
+7seven664fdqkcqtr9
+first: 7, last: 9, number: 79
+dvxtkqfqbhrllbone3six3
+first: 1, last: 3, number: 13
+4ktplgtgzlf3eightfxslssr
+first: 4, last: 8, number: 48
+six2bhsjknjmgdddgnb6tbhvxbf29nine
+first: 6, last: 9, number: 69
+two93twofngr8four
+first: 2, last: 4, number: 24
+oneoneftmqvblcrjnng7jvch97one
+first: 1, last: 7, number: 17
+9fivexmzstmlrmztwohsqmzfivehseven
+first: 9, last: 7, number: 97
+5two2hggzchnn
+first: 5, last: 2, number: 52
+one28ptdlfourgnrjftqd4vxfdrfx7
+first: 1, last: 7, number: 17
+six6zvkcszt4tfpkeightvdkjzbb
+first: 6, last: 8, number: 68
+7oneftjp
+first: 7, last: 1, number: 71
+1sevenseven9fsp
+first: 1, last: 9, number: 19
+jqtznvrq8one11fivesix
+first: 8, last: 6, number: 86
+3ninedkqxtmoneighthkt
+first: 3, last: 8, number: 38
+8k
+first: 8, last: 8, number: 88
+931
+first: 9, last: 1, number: 91
+clhvprlljttm9
+first: 9, last: 9, number: 99
+four14bfgf4eightwoc
+first: 4, last: 2, number: 42
+xrflnnfb2rlv7twoseven2six
+first: 2, last: 6, number: 26
+6366hlgklvjvxxlbkxgb
+first: 6, last: 6, number: 66
+nbkxvp3eightgnznqqjbt5seven
+first: 3, last: 7, number: 37
+98sntdts
+first: 9, last: 8, number: 98
+cneightwotdkfxxxjfdpz3zkkthree
+first: 8, last: 3, number: 83
+five1sfhq1lhhvjb
+first: 5, last: 1, number: 51
+zdd56tcdchkvnbn
+first: 5, last: 6, number: 56
+sevenhtpbmbntfivethree9scjfivenine
+first: 7, last: 9, number: 79
+2spxggcvsvm4msdszqtml
+first: 2, last: 4, number: 24
+4twoxsevencjgnine
+first: 4, last: 9, number: 49
+89eightonetwo3ghqbckqkn
+first: 8, last: 3, number: 83
+fvsgljnzgzfive1slhbxxhsrlmfivexqnkmtnzx
+first: 5, last: 5, number: 55
+1g1
+first: 1, last: 1, number: 11
+94mcreight
+first: 9, last: 8, number: 98
+threefntlsvvfnine9
+first: 3, last: 9, number: 39
+b3hnhvjhtrrv
+first: 3, last: 3, number: 33
+11fourthree46
+first: 1, last: 6, number: 16
+plhclxcjrsgspx3b8fivecbx
+first: 3, last: 5, number: 35
+mvjxqnqxtwo89bfive
+first: 2, last: 5, number: 25
+three9nkjrh6two3
+first: 3, last: 2, number: 32
+dgprgjdgcrtqxgvknnk9six
+first: 9, last: 6, number: 96
+dmbljtqg66zxjr95nine2seven
+first: 6, last: 7, number: 67
+vdxoneight6
+first: 1, last: 6, number: 16
+22two9
+first: 2, last: 9, number: 29
+7oneppgrjnmrvchvsznsgfivexxdt7
+first: 7, last: 7, number: 77
+1three4mzc
+first: 1, last: 4, number: 14
+bdnhvtsjmdnklsxbtmnztqjtpnz6fivesevenfourzddgsrfmlq
+first: 6, last: 4, number: 64
+krzm2twotwo65sixfhpplvcgcs
+first: 2, last: 6, number: 26
+qzcvbvsfive1oneqzc9threesevenseven
+first: 5, last: 7, number: 57
+threesixninekghkvvzd4
+first: 3, last: 4, number: 34
+txqjpmlvdlpm7
+first: 7, last: 7, number: 77
+eightsix1l96xrljgg
+first: 8, last: 9, number: 89
+two63d32six
+first: 2, last: 6, number: 26
+8nine1fivesixfive3eightwos
+first: 8, last: 2, number: 82
+sixninenkrpsix2nf4
+first: 6, last: 4, number: 64
+four2seven35four9threensbv
+first: 4, last: 3, number: 43
+ncjhcskrx6
+first: 6, last: 6, number: 66
+3eightcpssngjlsqvmsxqqpldhsxsthreelzgzn
+first: 3, last: 3, number: 33
+6zjnmxrgcz
+first: 6, last: 6, number: 66
+9bbvkvnbmzshtdzxgqnqmqtthree
+first: 9, last: 3, number: 93
+four2kqmzfgvpk35rhmqhtrqmfourhjxxfour
+first: 4, last: 4, number: 44
+9eightfivefrpqtzmkkgkvjbbqmsqvq
+first: 9, last: 5, number: 95
+eightsevenzpskfbrmcgzjjpnlgr51bdlcmsxhf
+first: 8, last: 1, number: 81
+pt8two6seveneightjsqxjmlf4six
+first: 8, last: 6, number: 86
+phjclrmpzm1292gdfivenine
+first: 1, last: 9, number: 19
+sixfourtwo1
+first: 6, last: 1, number: 61
+9tvcnzknine2rdnqfive81
+first: 9, last: 1, number: 91
+sixtwopvxjcnmone2kxzxgmn
+first: 6, last: 2, number: 62
+twosixpcntbtfivenine4two
+first: 2, last: 4, number: 24
+rxdgeightone86twobzmnlgkdc
+first: 8, last: 2, number: 82
+4two1twovtldl8one
+first: 4, last: 1, number: 41
+fiveb1
+first: 5, last: 1, number: 51
+212three6twofour84
+first: 2, last: 8, number: 28
+74tstlfmrmcj
+first: 7, last: 4, number: 74
+sixgxtwotmrmzkfsj9
+first: 6, last: 9, number: 69
+eighthksxmf144xltwo8
+first: 8, last: 2, number: 82
+mthjxjhnqxnhcbxg783
+first: 7, last: 3, number: 73
+prptwonehhdlrd71threeone
+first: 2, last: 1, number: 21
+59fivefnsmzfsix
+first: 5, last: 6, number: 56
+ninesixonetwo9six6jtptone
+first: 9, last: 1, number: 91
+eight9ninefivezqvpstsevenjvcjmdcscnzlqsfnhnrnmn
+first: 8, last: 7, number: 87
+2ckgjml4rcprzj7tp6
+first: 2, last: 6, number: 26
+sevenfivesevennhg136
+first: 7, last: 6, number: 76
+ninesevenvhl5
+first: 9, last: 5, number: 95
+fzflrseven1five5seven
+first: 7, last: 5, number: 75
+seven5lcfxp
+first: 7, last: 5, number: 75
+bqhjg4three3
+first: 4, last: 3, number: 43
+three8ninegtonetwo46
+first: 3, last: 6, number: 36
+cvdpr8
+first: 8, last: 8, number: 88
+32fivehfsdhxgjnn
+first: 3, last: 5, number: 35
+sdndcpccpvdzdgn9fourlnslcmbtwojphzpnvrnp
+first: 9, last: 2, number: 92
+9cqkgdf7fxgdfcllvnnmzpptninesixone9
+first: 9, last: 1, number: 91
+3chllzcgq5fivebffm9
+first: 3, last: 9, number: 39
+sqmtj4qlhlcrmrnb38v4dsix
+first: 4, last: 6, number: 46
+sevennine84bcpvqjcrxpvtcgfhlfhncplktf
+first: 7, last: 4, number: 74
+qkzxvstdgnfour4two
+first: 4, last: 2, number: 42
+jkhoneonesixfiveone14lvzn
+first: 1, last: 4, number: 14
+threethreefivensvlbfour2four
+first: 3, last: 2, number: 32
+vgqlhqfrlfourlzcgppdbhq57
+first: 4, last: 7, number: 47
+bqzpzbtwolprtwo9
+first: 2, last: 9, number: 29
+lfjs9six1five2fzcldvnpxtmhsix
+first: 9, last: 6, number: 96
+kslcntz36nine
+first: 3, last: 9, number: 39
+nineseven8rzccgfhzsjnjveighttwo
+first: 9, last: 2, number: 92
+three3fourfivedmjlgqfhmninemst8
+first: 3, last: 8, number: 38
+4qxvzgfvctwo73
+first: 4, last: 3, number: 43
+75961fivefourzg
+first: 7, last: 4, number: 74
+spcbt66sevennine4four
+first: 6, last: 4, number: 64
+hhb1
+first: 1, last: 1, number: 11
+dtmoneight9
+first: 1, last: 9, number: 19
+3mbctjhfmr2fourthreeseven86
+first: 3, last: 6, number: 36
+sixjsbmvzql6gfnttq
+first: 6, last: 6, number: 66
+1vknfgmznmnzpgvsp3bsksdsevenfourrk
+first: 1, last: 4, number: 14
+six4six7ninepfxjsshthree
+first: 6, last: 3, number: 63
+4rqgzpnqcg8skfgksjone3four8
+first: 4, last: 8, number: 48
+seven5zkljftwo
+first: 7, last: 2, number: 72
+76sctscqtsfcninefourrgmsbsxv9six
+first: 7, last: 6, number: 76
+46fpdqhkfjzgtclfchbbsjcbjhsbkqggzhlb6four
+first: 4, last: 4, number: 44
+bshbvfourzc79lvvdsqjksmzmqpbvrsrbtg7
+first: 4, last: 7, number: 47
+jdqmtfeight59fourtwo
+first: 8, last: 2, number: 82
+ninefivejsl3
+first: 9, last: 3, number: 93
+94z7fouroneeight
+first: 9, last: 8, number: 98
+5nbmvgheightfive
+first: 5, last: 5, number: 55
+sixseven5one9ngk3
+first: 6, last: 3, number: 63
+eight3jddmgqnzcfjsvrd6five6kmbxss
+first: 8, last: 6, number: 86
+seveneight9fourthree
+first: 7, last: 3, number: 73
+eight83
+first: 8, last: 3, number: 83
+3spltxvtbg
+first: 3, last: 3, number: 33
+92shzldthreefpckdtqhm7fivezzkdlz
+first: 9, last: 5, number: 95
+6two9threeztrzxphhksqc
+first: 6, last: 3, number: 63
+ninedlone3
+first: 9, last: 3, number: 93
+eight4nineonefournsmdgkdszt
+first: 8, last: 4, number: 84
+9cpxhnksktwo15fivefkq
+first: 9, last: 5, number: 95
+144eight77
+first: 1, last: 7, number: 17
+1sixjscflltdrgclmgrszdfive7lc
+first: 1, last: 7, number: 17
+ttmfsx9dzgcqjzlzhvlfqrsj4six
+first: 9, last: 6, number: 96
+846
+first: 8, last: 6, number: 86
+fiveseven7
+first: 5, last: 7, number: 57
+kqtwone2ninefour7fghmntkn
+first: 2, last: 7, number: 27
+8r8one
+first: 8, last: 1, number: 81
+5nnzqqgxl4gbgnzntfrhqzeight
+first: 5, last: 8, number: 58
+onevpkxvrone8
+first: 1, last: 8, number: 18
+79klfd
+first: 7, last: 9, number: 79
+gzrjvck1sixqnfdjxfive9eightcmhmsjpl
+first: 1, last: 8, number: 18
+nszqhdfsixsixb3threenfiveqskccbffd
+first: 6, last: 5, number: 65
+srbn928eight
+first: 9, last: 8, number: 98
+eight2eightfivekmnjkndgrhjdpvxk3
+first: 8, last: 3, number: 83
+9four11oneeight
+first: 9, last: 8, number: 98
+seven6fivezzktmsixv
+first: 7, last: 6, number: 76
+fivebvtnzr4threeonetld68
+first: 5, last: 8, number: 58
+mgbfjcjbqctt71fgdbmmqdlhpxnpmvx
+first: 7, last: 1, number: 71
+rjprxbxrfk233
+first: 2, last: 3, number: 23
+nxbjxbcvvskeightfiveglpnhbzz27four
+first: 8, last: 4, number: 84
+kstwo2
+first: 2, last: 2, number: 22
+2btbzfournbfcxnvlvcbsjmplnprcrg
+first: 2, last: 4, number: 24
+mkk6three271
+first: 6, last: 1, number: 61
+tfncrvlnfdmntdrmjqqtknsgpq671onethree
+first: 6, last: 3, number: 63
+eight8twofivex
+first: 8, last: 5, number: 85
+phreightfive81hftbkbdnztt
+first: 8, last: 1, number: 81
+onetbhqqlcbqrlfzrqbtbl9ntcgvxr1rhgrspqkgklz
+first: 1, last: 1, number: 11
+gckbonekhzcjhdb5
+first: 1, last: 5, number: 15
+twothree1lfivetwolpdxhn8
+first: 2, last: 8, number: 28
+threebqmxgpjfbzrrrrgdt8
+first: 3, last: 8, number: 38
+threejvlpxpfm9four4threeone
+first: 3, last: 1, number: 31
+five68onesevennineone9two
+first: 5, last: 2, number: 52
+mjqjrqmeight73
+first: 8, last: 3, number: 83
+fvfgrdppszgdhmninenineone7759
+first: 9, last: 5, number: 95
+lrhchsonek3twobblvn9bdmcbt
+first: 1, last: 9, number: 19
+mdcqxbz84five6ninetwonergj
+first: 8, last: 1, number: 81
+eightnine548ttfiveeight7
+first: 8, last: 7, number: 87
+74mfftzxhkl4
+first: 7, last: 4, number: 74
+seven5mdmrxlp
+first: 7, last: 5, number: 75
+ptb76ndfpbtljpkhjthdfmsdddjssm
+first: 7, last: 6, number: 76
+7vkeight
+first: 7, last: 8, number: 78
+bzzpvht5fourthreeseven8
+first: 5, last: 8, number: 58
+rztztsix12nine
+first: 6, last: 9, number: 69
+fvpqdnphtd1mmrhppbd2
+first: 1, last: 2, number: 12
+h8dpbvs2tjlqgfxhhbeight
+first: 8, last: 8, number: 88
+51one
+first: 5, last: 1, number: 51
+two86
+first: 2, last: 6, number: 26
+sixnine7sixseventwo34
+first: 6, last: 4, number: 64
+two45xjcpcnhgbsb1five7
+first: 2, last: 7, number: 27
+qqkzvpsixfivepfzdhtl92six4rhp
+first: 6, last: 4, number: 64
+two6vqtxvxrvzpz
+first: 2, last: 6, number: 26
+1qqsfrgdbsm8five
+first: 1, last: 5, number: 15
+threeeightsix36xvtm
+first: 3, last: 6, number: 36
+nine5eightczhsix3twoprztckvb
+first: 9, last: 2, number: 92
+pxrsgpszonepdjvxcblqzkr61seven11
+first: 1, last: 1, number: 11
+5sevenonesevensix4six1dvhrx
+first: 5, last: 1, number: 51
+cdxnbseven9qsevenvbv4
+first: 7, last: 4, number: 74
+sixlgjt3
+first: 6, last: 3, number: 63
+dhpxhpbkq3lc6rkjlpdz4five5pctfzsplrf
+first: 3, last: 5, number: 35
+1kmsmgjpmkqfckr
+first: 1, last: 1, number: 11
+sixeight1k44
+first: 6, last: 4, number: 64
+52qdfp1b8
+first: 5, last: 8, number: 58
+86fourthree42
+first: 8, last: 2, number: 82
+six2fourpjtsvskrxtmgxnj2one3dn
+first: 6, last: 3, number: 63
+rjtfqxvfm88seventhreeeighttwo
+first: 8, last: 2, number: 82
+fivepgfvxcds64sevenhg
+first: 5, last: 7, number: 57
+glvhcrgbtphxfsfourthreerqhjxpzone5gh
+first: 4, last: 5, number: 45
+1sevenone34
+first: 1, last: 4, number: 14
+689five9ninetwotwo4
+first: 6, last: 4, number: 64
+6two92sixjb1cbhmrq
+first: 6, last: 1, number: 61
+fiverrvllhbgcsskh2
+first: 5, last: 2, number: 52
+foureight6fhtx1five8eight
+first: 4, last: 8, number: 48
+pqvvjkhtxkxcjkrf9mn
+first: 9, last: 9, number: 99
+threefive2hs6one6jhkbdh
+first: 3, last: 6, number: 36
+twoninefzflrqqzvp2xnr8
+first: 2, last: 8, number: 28
+one51
+first: 1, last: 5, number: 15
+7bjpnfsgpszrfk5fourthreebvvn
+first: 7, last: 3, number: 73
+six74
+first: 6, last: 4, number: 64
+twozcgbrrhxcpznx9dlcgdchpndcdc
+first: 2, last: 9, number: 29
+nines566
+first: 9, last: 6, number: 96
+one72zshxlsix
+first: 1, last: 6, number: 16
+vseven4fouronenine6
+first: 7, last: 6, number: 76
+7four1nine2threekzjbs4
+first: 7, last: 4, number: 74
+onecq3four
+first: 1, last: 4, number: 14
+twodcrx8
+first: 2, last: 8, number: 28
+four35sjjhpfftzsixfqctsfonefiveseven
+first: 4, last: 7, number: 47
+sxqnssjtwothree2
+first: 2, last: 2, number: 22
+8fdpjrztwoseventwo5rmqvoneeight
+first: 8, last: 8, number: 88
+pjlbnl3rg3shchseven
+first: 3, last: 7, number: 37
+zdcrnpddv2
+first: 2, last: 2, number: 22
+eight2foureighttgjcxtf2
+first: 8, last: 2, number: 82
+ghhxlxqttvonerh96715twonectr
+first: 1, last: 1, number: 11
+9hmfxxrsdbsixbtwo7sevensix
+first: 9, last: 6, number: 96
+32ghjqjfp7three4one
+first: 3, last: 1, number: 31
+197
+first: 1, last: 7, number: 17
+twon8five2
+first: 2, last: 2, number: 22
+vtwobrlhqsq1twothreesixthree
+first: 2, last: 6, number: 26
+xbdxninefour8seven
+first: 9, last: 7, number: 97
+five39
+first: 5, last: 9, number: 59
+621eightsix
+first: 6, last: 6, number: 66
+21fvdd11tsdzhjspzld4
+first: 2, last: 4, number: 24
+7seventwoeightfpnkhxmvc
+first: 7, last: 8, number: 78
+96sjrcvzxsevenfqt4seven9
+first: 9, last: 9, number: 99
+xzxmtsrhbfivenineninerxgcrx9one
+first: 5, last: 1, number: 51
+5pzgmrgrg2kdgl9one
+first: 5, last: 1, number: 51
+lqzmttxcpp7cnfstnhtglzhssntjmsixseven6six
+first: 7, last: 6, number: 76
+two711
+first: 2, last: 1, number: 21
+6onevjnvmkkx
+first: 6, last: 1, number: 61
+eight7dbmznvztwo
+first: 8, last: 2, number: 82
+9mlpltkt3
+first: 9, last: 3, number: 93
+7ninenine4tpjbsbtsgzttlgrtnfvr91four
+first: 7, last: 4, number: 74
+foursevenq7
+first: 4, last: 7, number: 47
+six1sgtbsmgft9
+first: 6, last: 9, number: 69
+nineone28fourjtwo8
+first: 9, last: 8, number: 98
+76threebgqvh6lfbkdmfvcthreeone3
+first: 7, last: 1, number: 71
+13cvtpqnmbv
+first: 1, last: 3, number: 13
+1sevenzjhtfpbfb73rccvtnmtthree7
+first: 1, last: 7, number: 17
+4xhvshhtmxx7sevenf9
+first: 4, last: 9, number: 49
+8one1
+first: 8, last: 1, number: 81
+931fivetmdmsrrmfxrplkfvfourthreeeight
+first: 9, last: 8, number: 98
+qzbthffhlg2
+first: 2, last: 2, number: 22
+one4eight33
+first: 1, last: 3, number: 13
+qfjqt9jlcthreeqkfdpfiveeight8scfnlj
+first: 9, last: 8, number: 98
+fvczqbtsix2bxkgsnsix5nine7
+first: 6, last: 7, number: 67
+9qxnvlnine2phnlqzninefive
+first: 9, last: 5, number: 95
+tszjsxbsixtwoeight62ffjtdnxxtwofive
+first: 6, last: 5, number: 65
+one2skxg
+first: 1, last: 2, number: 12
+five5onexzgzkjvtqrfourfive
+first: 5, last: 5, number: 55
+twozsxzqtrqbxqqqsbcvfpgdcdpttwo1six
+first: 2, last: 6, number: 26
+8mqkgptxsixhqmbqshcl
+first: 8, last: 6, number: 86
+lsdlsxrhdqthreesix2sevenchjxvmsjpvrnpcblgmsix
+first: 3, last: 6, number: 36
+gngrfrhbxhqkxs5fourr8three4
+first: 5, last: 4, number: 54
+jlzszzz9one
+first: 9, last: 1, number: 91
+twozrbjkjpzseventwonine8dbmfdjcb
+first: 2, last: 8, number: 28
+3nine36ppqone4czxvkxjzv
+first: 3, last: 4, number: 34
+ld6eightseven6twosix
+first: 6, last: 6, number: 66
+1jnbfive
+first: 1, last: 5, number: 15
+7threeglmcdhpvq4723fivethree
+first: 7, last: 3, number: 73
+seven148oneightd
+first: 7, last: 8, number: 78
+sevensevenseven6sixtwosix21
+first: 7, last: 1, number: 71
+8twojhdkdrcqgmclqlldv6sevenonedjthcz
+first: 8, last: 1, number: 81
+ninesevenggsjbpt5ttlrq
+first: 9, last: 5, number: 95
+59sixfivefive
+first: 5, last: 5, number: 55
+eight9bsmcgkseventhree66qmgpkkxnpm
+first: 8, last: 6, number: 86
+fourthree73fiveseven
+first: 4, last: 7, number: 47
+9five9six8threet
+first: 9, last: 3, number: 93
+3eight44
+first: 3, last: 4, number: 34
+dlcbjflsix5ttvjdxzzeightcffrtfjcjpxtwostrdc
+first: 6, last: 2, number: 62
+fiveone645fivellfcmqqmnine
+first: 5, last: 9, number: 59
+hxdtshfive115tfvrzqhgftwojtjrcshgtq
+first: 5, last: 2, number: 52
+6nqrfrhv17jdxpfmmdt4five
+first: 6, last: 5, number: 65
+sevenxtpjxnrr1
+first: 7, last: 1, number: 71
+krzkthreegjnqrfbsdrkqptd33rsvrzvvffqhreight
+first: 3, last: 8, number: 38
+472ggfive56hgnvz
+first: 4, last: 6, number: 46
+12tkpchqtnine
+first: 1, last: 9, number: 19
+vdbsctv6eightth82
+first: 6, last: 2, number: 62
+fivetngxlttf4
+first: 5, last: 4, number: 54
+5nss
+first: 5, last: 5, number: 55
+5onesixsevenphxtmlqhzfcjxrknpv
+first: 5, last: 7, number: 57
+gldsixrhss186seven6
+first: 6, last: 6, number: 66
+gnpksz4
+first: 4, last: 4, number: 44
+4919
+first: 4, last: 9, number: 49
+pbc19
+first: 1, last: 9, number: 19
+Total: 56243
